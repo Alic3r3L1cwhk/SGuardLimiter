@@ -79,14 +79,14 @@ dotnet build -c Release
 dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeAllContentForSelfExtract=true
 ```
 
-📦 发布路径：
+#### 📦 发布路径：
 ```
 SGuardLimiter\bin\Release\net8.0\win-x64\publish\SGuardLimiter.exe
 ```
 
-👑 右键以 管理员身份运行 该可执行文件。
+#### 👑 右键以 管理员身份运行 该可执行文件。
 
-🧠 说明
+## 🧠 技术细节
 
 --self-contained true：让程序无需安装 .NET 运行时即可运行
 
@@ -95,7 +95,7 @@ SGuardLimiter\bin\Release\net8.0\win-x64\publish\SGuardLimiter.exe
 -p:IncludeAllContentForSelfExtract=true：保证资源完整加载
 
 
-🧰 开发工具
+## 🧰 开发工具
 
 Visual Studio 2022 / VS Code	代码编写与调试
 
@@ -107,7 +107,7 @@ Windows 任务计划程序	自启任务注册
 
 Windows 11 环境	程序测试与验证
 
-⚠️ 注意事项
+## ⚠️ 注意事项
 
 ⚙️ 程序必须以 管理员权限 运行，否则无法修改进程属性。
 
@@ -117,7 +117,7 @@ Windows 11 环境	程序测试与验证
 
 💾 程序不会常驻系统，仅在成功设置后自动退出。
 
-📜 免责声明
+## 📜 免责声明
 
 本项目仅供个人学习与研究使用，禁止用于任何商业或非法行为。
 
@@ -133,7 +133,7 @@ Windows 11 环境	程序测试与验证
 若发现有第三方利用本项目从事收费或商业行为，
 其产生的责任与本项目及作者无关。
 
-👤 作者信息
+## 👤 作者信息
 
 作者：Alic3r3L1cwhk
 

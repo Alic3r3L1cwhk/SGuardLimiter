@@ -1,2 +1,0 @@
-D:\桌面\111\SGuardLimiter\bin\Release\net8.0\win-x64\publish\SGuardLimiter.pdb
-D:\桌面\111\SGuardLimiter\bin\Release\net8.0\win-x64\publish\SGuardLimiter.exe

@@ -69,7 +69,7 @@
 ##### 克隆本项目
 
 ```
-git clone 
+git clone git@github.com:Alic3r3L1cwhk/SGuardLimiter.git
 ```
 
 ##### 执行编译和打包

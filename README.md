@@ -50,8 +50,8 @@
 
 ### ✅ 方式一：直接运行
 
-1. 下载发布包，解压 `ACE限制.7z`。
-2. 右键以 **管理员身份运行** `ACE限制.exe`。
+1. [下载](https://github.com/Alic3r3L1cwhk/SGuardLimiter/releases/tag/AntiACESGuard)，解压。
+2. 设置兼容性为管理员方式运行 `ACE限制.exe`。
 3. 程序启动后会自动检测并限制目标进程。
 4. 设置完成后程序会自动退出。
 
